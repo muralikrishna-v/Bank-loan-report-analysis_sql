@@ -43,7 +43,7 @@ This **SQL-powered dashboard** delivers:
 The **Bank Loan Report Analysis Dashboard** provides an **interactive view** of loan trends, borrower risk assessment, and lending performance.
 
 ### **📌 Dashboard Screenshots**  
-![Bank Loan Dashboard](images/bank_loan_dashboard_summary.png)  
+![Bank Loan Dashboard](https://github.com/muralikrishna-v/Bank-loan-report-analysis_sql/blob/main/bank%20loan%20report.png)  
 📌 **Loan Summary & KPIs**  
 
 
