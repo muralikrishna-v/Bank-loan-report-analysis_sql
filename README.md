@@ -30,31 +30,6 @@ This **SQL-powered dashboard** delivers:
 
 ---
 
-## 🎯 Key Performance Indicators (KPIs)  
-
-### **🔹 Dashboard 1: Loan Summary & KPIs**  
-✔ **Total Loan Applications** – Tracks **all loan applications** received.  
-✔ **Total Funded Amount** – Measures **disbursed loan amounts**.  
-✔ **Total Amount Received** – Monitors **borrower repayments** to assess **cash flow**.  
-✔ **Average Interest Rate** – Evaluates **loan profitability** based on interest charged.  
-✔ **Average Debt-to-Income Ratio (DTI)** – Gauges **borrower financial stability**.  
-✔ **Good Loan vs. Bad Loan Analysis** – Segmentation based on **repayment behavior**.  
-
-### **🔹 Dashboard 2: Loan Trends & Regional Insights**  
-✔ **Monthly Trends (Line Chart)** – Tracks **seasonality in loan applications**.  
-✔ **Regional Analysis (Map Chart)** – Identifies **high-loan-activity states**.  
-✔ **Loan Term Analysis (Donut Chart)** – Breaks down loans by **term length**.  
-✔ **Employment Length Analysis (Bar Chart)** – Evaluates **borrower employment history impact**.  
-✔ **Loan Purpose Breakdown (Bar Chart)** – Analyzes **why borrowers seek loans**.  
-✔ **Home Ownership Analysis (Tree Map)** – Examines **ownership impact on loan approvals**.  
-
-### **🔹 Dashboard 3: Detailed Loan Data (Grid View)**  
-✔ **One-stop loan portfolio view** – Consolidates **borrower details, loan status, and repayment trends**.  
-✔ **Loan Status Grid** – Displays **loan lifecycle stages (active, default, repaid, etc.).**  
-✔ **User-Friendly Interface** – Allows **financial teams to analyze and filter loan data efficiently**.  
-
----
-
 ## 🛠 Tools & Technologies Used  
 - 🛢 **SQL (PostgreSQL / MySQL / SQL Server)** – Querying & data extraction.  
 - 📊 **Tableau / Power BI / Excel** – Data visualization & dashboard creation.  
@@ -71,8 +46,7 @@ The **Bank Loan Report Analysis Dashboard** provides an **interactive view** of 
 ![Bank Loan Dashboard](images/bank_loan_dashboard_summary.png)  
 📌 **Loan Summary & KPIs**  
 
-![Bank Loan Trends](images/bank_loan_dashboard_trends.png)  
-📌 **Loan Trends & Regional Analysis**  
+
 
 ![Loan Details Grid](images/bank_loan_details_dashboard.png)  
 📌 **Detailed Loan Data & Borrower Insights**  
