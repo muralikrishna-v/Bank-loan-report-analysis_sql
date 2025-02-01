@@ -48,7 +48,7 @@ The **Bank Loan Report Analysis Dashboard** provides an **interactive view** of 
 
 
 
-![Loan Details Grid](images/bank_loan_details_dashboard.png)  
+![Loan Details Grid](https://github.com/muralikrishna-v/Bank-loan-report-analysis_sql/blob/main/bank%20report.png)  
 📌 **Detailed Loan Data & Borrower Insights**  
 
 ---
