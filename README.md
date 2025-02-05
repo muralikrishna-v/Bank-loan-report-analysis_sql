@@ -78,5 +78,7 @@ The **Bank Loan Report Analysis Dashboard** provides an **interactive view** of 
 📌 **Certain states show higher loan defaults**, highlighting **regional risk factors** for lenders.  
 
 ---
-
+##📢 Connect with Me
+💼 LinkedIn: ![My linkedin profile](www.linkedin.com/in/muralikvasantha)
+🌐 Portfolio: ![My Data Analytics Portfolio](https://www.datascienceportfol.io/)
 
