@@ -79,6 +79,6 @@ The **Bank Loan Report Analysis Dashboard** provides an **interactive view** of 
 
 ---
 ##📢 Connect with Me
-💼 LinkedIn: ![My linkedin profile](www.linkedin.com/in/muralikvasantha)
-🌐 Portfolio: ![My Data Analytics Portfolio](https://www.datascienceportfol.io/)
+💼 LinkedIn: ![My linkedin profile]()
+🌐 Portfolio: ![My Data Analytics Portfolio]()
 
